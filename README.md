@@ -40,4 +40,16 @@
         <p>Neusoft</p>
       </a>
     </li>
+	<li>
+      <img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/neusoft.svg" alt="Neusoft">
+      <a href="https://www.neusoft.com/" title="Neusoft">
+        <p>Neusoft</p>
+      </a>
+    </li>
+	<li>
+      <img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/neusoft.svg" alt="Neusoft">
+      <a href="https://www.neusoft.com/" title="Neusoft">
+        <p>Neusoft</p>
+      </a>
+    </li>
   </ul>
