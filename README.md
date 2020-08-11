@@ -9,7 +9,7 @@
 
 <div>
 	<img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/phone.svg" title="Phone" alt="Phone"/>
-    <a href="tel:0015627580668" title="Phone">+15627580668</a>
+    <a href="tel:0015627580668" title="Phone">+1-5627580668</a>
     <em> (Google Voice Number. Receive SMS only)</em>
 </div>
 
@@ -54,7 +54,7 @@
     <img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/keepsoft.png" alt="KEEPSOFT" />
     </a>
     <br />
-    KEEPSOFT (2018 - )
+    KEEPSOFT (2018 - now)
 </div>
 
 # Skills
