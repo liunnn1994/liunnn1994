@@ -38,7 +38,7 @@
         <img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/neusoft.png" alt="Neusoft" />
     </a>
     <br />
-    Neusoft (2016 - 2017)
+    Neusoft (2016 - 2018)
 </div>
 
 <div>
@@ -46,7 +46,7 @@
     <img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/gxd.png" alt="GXD" />
     </a>
     <br />
-    GXD (2017 - 2018)
+    GXD (2018 - 2019)
 </div>
 
 <div>
@@ -54,13 +54,12 @@
     <img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/keepsoft.png" alt="KEEPSOFT" />
     </a>
     <br />
-    KEEPSOFT (2018 - now)
+    KEEPSOFT (2019 - now)
 </div>
 
 # Skills
 
 - 💻 Client: HTML, CSS,  JavaScript, TypeScript
 - 🖥️ Server: Node.JS, GoLang, Python
-- 💾 Database: MySQL, Sequelize 
 - 🖊️ Design: PhotoShop, Illustrator, After Effects
 - 🏳️‍🌈 Others: Electron, QT5 ...
