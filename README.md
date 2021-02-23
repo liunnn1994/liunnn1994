@@ -8,12 +8,6 @@
 </div>
 
 <div>
-	<img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/phone.svg" title="Phone" alt="Phone"/>
-    <a href="tel:0015627580668" title="Phone">+1-5627580668</a>
-    <em> (Google Voice Number. Receive SMS only)</em>
-</div>
-
-<div>
 	<img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/qq.svg" title="QQ" alt="QQ"/>
     <a href="tencent://message/?uin=1041001122&Menu=yes" title="QQ">1041001122</a>
 </div>
