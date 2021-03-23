@@ -33,36 +33,36 @@
     </a>
     <br />
     Neusoft (2016 - 2018)
-    <br />
 </div>
-
+<br />
+<br />
 <div>
     <a href="http://cindata.cn/" title="GXD">
     <img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/gxd.png" alt="GXD" />
     </a>
     <br />
     GXD (2018 - 2019)
-    <br />
 </div>
-
+<br />
+<br />
 <div>
     <a href="http://www.keepsoft.net/" title="KEEPSOFT">
     <img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/keepsoft.png" alt="KEEPSOFT" />
     </a>
     <br />
     KEEPSOFT (2019 - 2021)
-    <br />
 </div>
-
+<br />
+<br />
 <div>
     <a href="https://www.navinfo.com/" title="NavInfo Co.,Ltd">
     <img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/navinfo.png" alt="NavInfo Co.,Ltd" />
     </a>
     <br />
     NavInfo Co.,Ltd (2021 - now)
-    <br />
 </div>
-
+<br />
+<br />
 # Skills
 
 - 💻 Client: HTML, CSS,  JavaScript, TypeScript
