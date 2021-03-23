@@ -33,6 +33,7 @@
     </a>
     <br />
     Neusoft (2016 - 2018)
+    <br />
 </div>
 
 <div>
@@ -41,6 +42,7 @@
     </a>
     <br />
     GXD (2018 - 2019)
+    <br />
 </div>
 
 <div>
@@ -49,6 +51,7 @@
     </a>
     <br />
     KEEPSOFT (2019 - 2021)
+    <br />
 </div>
 
 <div>
@@ -57,6 +60,7 @@
     </a>
     <br />
     NavInfo Co.,Ltd (2021 - now)
+    <br />
 </div>
 
 # Skills
