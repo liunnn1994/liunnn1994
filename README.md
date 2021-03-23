@@ -48,7 +48,15 @@
     <img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/keepsoft.png" alt="KEEPSOFT" />
     </a>
     <br />
-    KEEPSOFT (2019 - now)
+    KEEPSOFT (2019 - 2021)
+</div>
+
+<div>
+    <a href="https://www.navinfo.com/" title="NavInfo Co.,Ltd">
+    <img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/navinfo.png" alt="NavInfo Co.,Ltd" />
+    </a>
+    <br />
+    NavInfo Co.,Ltd (2021 - now)
 </div>
 
 # Skills
