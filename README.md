@@ -63,7 +63,7 @@
 </div>
 <br />
 <br />
-# Skills
+#  Skills
 
 - 💻 Client: HTML, CSS,  JavaScript, TypeScript
 - 🖥️ Server: Node.JS, GoLang, Python
