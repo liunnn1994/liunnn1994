@@ -1,27 +1,19 @@
-**Liu Nian**
+# Hi there 👋
 
-**Front-End Engineering**
+I'm **Liu Nian** , a front end development engineer from **the River of Black Dragon** *:D* , China.
 
-<div>
-	<img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/email.svg" title="E-mail" alt="E-mail"/>
-    <a href="mailto:liunian@2077tech.com" title="E-mail">liunian@2077tech.com</a>
-</div>
+<img width="600px" align="right" src="https://github-readme-stats.vercel.app/api?username=asdjgfr&include_all_commits=true" />
 
-<div>
-	<img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/qq.svg" title="QQ" alt="QQ"/>
-    <a href="tencent://message/?uin=1041001122&Menu=yes" title="QQ">1041001122</a>
-</div>
+**Contact**
+- ![E-mail](https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/email.svg) [liunian@2077tech.com](mailto:liunian@2077tech.com)
+- ![QQ](https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/qq.svg) [1041001122](tencent://message/?uin=1041001122&Menu=yes)
+- ![GitHub](https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/github.svg) [GitHub](https://github.com/asdjgfr)
+- ![E-mail](https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/blog.svg) [Persional Page](https://www.2077tech.com)
 
-<div>
-	<img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/github.svg" title="GitHub" alt="GitHub"/>
-    <a href="https://github.com/asdjgfr" title="GitHub">GitHub</a>
-</div>
-
-<div>
-	<img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/blog.svg" title="persional page" alt="persional page"/>
-    <a href="https://www.2077tech.com" title="persional page">Persional Page</a>
-</div>
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 #  Work Experience
 
@@ -61,11 +53,28 @@
     <br />
     NavInfo Co.,Ltd (2021 - now)
 </div>
-<br />
-<br />
+
+
 #  Skills
+
+<img width="300px" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asdjgfr" />
 
 - 💻 Client: HTML, CSS,  JavaScript, TypeScript
 - 🖥️ Server: Node.JS, GoLang, Python
 - 🖊️ Design: PhotoShop, Illustrator, After Effects
 - 🏳️‍🌈 Others: Electron, QT5 ...
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+# Contributed
+
+<a href="https://www.antdv.com/">
+    <img width="128" src="https://qn.antdv.com/logo.png">
+</a>
+<a href="https://archiveprogram.github.com/">
+    <img alt="Arctic Code Vault Contributor" width="128" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png">
+</a>
