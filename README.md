@@ -10,49 +10,22 @@ I'm **Liu Nian** , a front end development engineer from **the Black Dragon Rive
 - ![GitHub](https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/github.svg) [GitHub](https://github.com/asdjgfr)
 - ![E-mail](https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/blog.svg) [Persional Page](https://www.2077tech.com)
 
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 #  Work Experience
 
 > since 2016
 
-<div>
-    <a href="https://www.neusoft.com/" title="Neusoft">
-        <img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/neusoft.png" alt="Neusoft" />
-    </a>
-    <br />
-    Neusoft (2016 - 2018)
-</div>
-<br />
-<br />
-<div>
-    <a href="http://cindata.cn/" title="GXD">
-    <img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/gxd.png" alt="GXD" />
-    </a>
-    <br />
-    GXD (2018 - 2019)
-</div>
-<br />
-<br />
-<div>
-    <a href="http://www.keepsoft.net/" title="KEEPSOFT">
-    <img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/keepsoft.png" alt="KEEPSOFT" />
-    </a>
-    <br />
-    KEEPSOFT (2019 - 2021)
-</div>
-<br />
-<br />
-<div>
-    <a href="https://www.navinfo.com/" title="NavInfo Co.,Ltd">
-    <img src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/navinfo.png" alt="NavInfo Co.,Ltd" />
-    </a>
-    <br />
-    NavInfo Co.,Ltd (2021 - now)
-</div>
+
+[Neusoft](https://www.neusoft.com/) (2016 - 2018)            |  [GXD](http://cindata.cn/) (2018 - 2019)
+:-------------------------:|:-------------------------:
+<img width="400px" src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/neusoft.png" title="Neusoft"/>  |  <img width="400px" src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/gxd.png" title="GXD"/>
+
+[KEEPSOFT](http://www.keepsoft.net/) (2019 - 2021)      |  [NavInfo Co.,Ltd](https://www.navinfo.com/) (2021 - now)
+:-------------------------:|:-------------------------:
+<img width="400px" src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/keepsoft.png" title="KEEPSOFT"/> |  <img width="400px" src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/navinfo.png" title="NavInfo Co.,Ltd"/>
+
+
 
 
 #  Skills
