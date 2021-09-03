@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Liu Nian** , a front end development engineer from **the River of Black Dragon** *:D* , China.
+I'm **Liu Nian** , a front end development engineer from **the Black Dragon River** *:D* , China.
 
 <img width="600px" align="right" src="https://github-readme-stats.vercel.app/api?username=asdjgfr&include_all_commits=true" />
 
@@ -70,7 +70,7 @@ I'm **Liu Nian** , a front end development engineer from **the River of Black Dr
 <br/>
 <br/>
 
-# Contributed
+# As Contributors
 
 <a href="https://www.antdv.com/">
     <img width="128" src="https://qn.antdv.com/logo.png">
