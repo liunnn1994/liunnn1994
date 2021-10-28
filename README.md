@@ -54,3 +54,7 @@ I'm **Liu Nian** , a front end development engineer from **the Black Dragon Rive
 <a href="https://archiveprogram.github.com/">
     <img alt="Arctic Code Vault Contributor" width="128" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png">
 </a>
+
+# Talk is cheap. Show me the code. *<sup>[Linus Torvalds - 2000](https://lkml.org/lkml/2000/8/25/132)</sup>*
+
+![profile](https://github-profile-trophy.vercel.app/?username=asdjgfr&theme=flat&column=7&margin-w=10)
