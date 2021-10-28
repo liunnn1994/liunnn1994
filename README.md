@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=asdjgfr&label=VISITOR)
+
 I'm **Liu Nian** , a front end development engineer from **the Black Dragon River** *:D* , China.
 
 <img width="600px" align="right" src="https://github-readme-stats.vercel.app/api?username=asdjgfr&include_all_commits=true" />
