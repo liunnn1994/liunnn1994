@@ -4,12 +4,14 @@
 
 I'm **Liu Nian** , a front end development engineer from **the Black Dragon River** *:D* , China.
 
-<img width="600px" align="right" src="https://github-readme-stats.vercel.app/api?username=asdjgfr&include_all_commits=true" />
-
 **Contact**
 - ![E-mail](https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/email.svg) [liunian@2077tech.com](mailto:liunian@2077tech.com)
 - ![GitHub](https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/github.svg) [GitHub](https://github.com/asdjgfr)
 - ![E-mail](https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/blog.svg) [Persional Page](https://www.2077tech.com)
+
+<br/>
+<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=asdjgfr&include_all_commits=true" />
+
 <br/>
 <br/>
 <br/>
