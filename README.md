@@ -23,16 +23,10 @@ I'm **Liu Nian** , a front end development engineer from **the Black Dragon Rive
 
 > since 2016
 
-
-[Neusoft](https://www.neusoft.com/) (2016 - 2018)            |  [GXD](http://cindata.cn/) (2018 - 2019)
-:-------------------------:|:-------------------------:
-<img width="400px" src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/neusoft.png" title="Neusoft"/>  |  <img width="400px" src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/gxd.png" title="GXD"/>
-
-[KEEPSOFT](http://www.keepsoft.net/) (2019 - 2021)      |  [NavInfo Co.,Ltd](https://www.navinfo.com/) (2021 - now)
-:-------------------------:|:-------------------------:
-<img width="400px" src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/keepsoft.png" title="KEEPSOFT"/> |  <img width="400px" src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/navinfo.png" title="NavInfo Co.,Ltd"/>
-
-
+- [Neusoft](https://www.neusoft.com/) (2016 - 2018)&emsp;&emsp;&emsp;&nbsp;💼 Front-End Developer
+- [GXD](http://cindata.cn/) (2018 - 2019)&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;💼 Front-End Developer
+- [KEEPSOFT](http://www.keepsoft.net/) (2019 - 2021)&emsp;&emsp;&nbsp;💼 Front-End Developer
+- [NavInfo Co.,Ltd](https://www.navinfo.com/) (2021 - now)&nbsp;💼 Front-End Architect/Lead
 
 
 ##  Skills
