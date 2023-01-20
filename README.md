@@ -25,7 +25,7 @@ I'm **Liu Nian** , a front end development engineer from **the Black Dragon Rive
 
 | Company 💼 | Tenure ⏱️ | Responsibilities 👔 |
 |----|----|----|
-| [NavInfo Co.,Ltd](https://www.navinfo.com/) | 2021 - now | Front-End Architect/Lead |
+| [NavInfo Co.,Ltd](https://www.navinfo.com/) | 2021 - now | Front-End Architecter/Leader |
 | [KEEPSOFT](http://www.keepsoft.net/) | 2019 - 2021 | Front-End Developer |
 | [GXD](http://cindata.cn/) | 2018 - 2019 | Front-End Developer |
 | [Neusoft](https://www.neusoft.com/) | 2016 - 2018 | Front-End Developer |
