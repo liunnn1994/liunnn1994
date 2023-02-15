@@ -36,9 +36,9 @@ I'm **Liu Nian** , a front end development engineer from **the Black Dragon Rive
 <img width="300px" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asdjgfr" />
 
 - 💻 Client: HTML, CSS,  JavaScript, TypeScript
-- 🖥️ Server: Node.JS, GoLang, Python
+- 🖥️ Server: Node.JS, Deno, Bun, GoLang, Python
 - 🖊️ Design: PhotoShop, Illustrator, After Effects
-- 🏳️‍🌈 Others: Electron, QT5 ...
+- 🏳️‍🌈 Others: Electron, Quasar...
 
 <br/>
 <br/>
@@ -49,20 +49,16 @@ I'm **Liu Nian** , a front end development engineer from **the Black Dragon Rive
 
 ## As Contributors
 
-<a href="https://archiveprogram.github.com/" title="Arctic Code Vault Contributor">
-    <img alt="Arctic Code Vault Contributor" height="64" src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/Arctic%20Code%20Vault%20Contributor.png">
-</a>
-&nbsp;
-<a href="https://developer.mozilla.org/" title="MDN">
+<a href="https://developer.mozilla.org/" title="MDN" style="text-decoration:none !important;">
     <img alt="MDN" height="64" src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/mdn.png">
-</a>
-&nbsp;
-<a href="https://www.antdv.com/" title="Ant Design Vue">
-    <img height="64" src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/Ant%20Design%20Vue.png">
 </a>
 &nbsp;
 <a href="https://element-plus.org/zh-CN/" title="Element Plus">
     <img alt="Element Plus" height="64" src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/element-plus-logo.svg">
+</a>
+&nbsp;
+<a href="https://www.antdv.com/" title="Ant Design Vue" align="center" float="left">
+    <img height="64" src="https://raw.githubusercontent.com/asdjgfr/asdjgfr/master/Ant%20Design%20Vue.png">
 </a>
 
 ----------
