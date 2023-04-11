@@ -1,6 +1,6 @@
 # 👋 欢迎, Welcome, Bienvenida, Bienvenue, いらっしゃいませ, Receber, Добро пожаловать, 환영합니다, მოგესალმებით, مرحباً, Ласкаво просимо, Bem-vindo, வணக்கம்
 
-![](https://komarev.com/ghpvc/?username=liunnn1994&label=VISITOR)
+![VISITOR](https://komarev.com/ghpvc/?username=liunnn1994&label=VISITOR)
 
 I'm **Liu Nian** , a front end development engineer from **the Black Dragon River 🐉** *:D* , China.
 
