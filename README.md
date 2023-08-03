@@ -1,6 +1,8 @@
 # 👋 欢迎, Welcome, Bienvenida, Bienvenue, いらっしゃいませ, Receber, Добро пожаловать, 환영합니다, მოგესალმებით, مرحباً, Ласкаво просимо, Bem-vindo, வணக்கம்
 
-![VISITOR](https://komarev.com/ghpvc/?username=liunnn1994&label=VISITOR)
+![VISITOR](https://komarev.com/ghpvc/?username=liunnn1994&label=VISITOR) ![Javascript Badge](https://img.shields.io/badge/javascript-gray?logo=javascript) ![Node.js Badge](https://img.shields.io/badge/Node.js-gray?logo=node.js) ![Go Badge](https://img.shields.io/badge/go-gray?logo=go)
+
+![](./header.png) 
 
 I'm **Liu Nian** , a front end development engineer from **the Black Dragon River 🐉** *:D* , China.
 
@@ -8,6 +10,8 @@ I'm **Liu Nian** , a front end development engineer from **the Black Dragon Rive
 - ![E-mail](https://raw.githubusercontent.com/liunnn1994/liunnn1994/master/email.svg) [liunian@2077tech.com](mailto:liunian@2077tech.com)
 - ![GitHub](https://raw.githubusercontent.com/liunnn1994/liunnn1994/master/github.svg) [GitHub](https://github.com/liunnn1994)
 - ![Blog](https://raw.githubusercontent.com/liunnn1994/liunnn1994/master/blog.svg) [Persional Page](https://www.2077tech.com)
+
+
 
 <br/>
 <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=liunnn1994&include_all_commits=true" />
