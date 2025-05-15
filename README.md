@@ -51,7 +51,7 @@ I'm **Liu Nian** , a front end development engineer from **the Black Dragon Rive
 <br/>
 <br/>
 
-## As Contributors
+## As Committer
 
 <a href="https://developer.mozilla.org/" title="MDN" style="text-decoration:none !important;">
     <img alt="MDN" height="64" src="https://raw.githubusercontent.com/liunnn1994/liunnn1994/master/mdn.png">
